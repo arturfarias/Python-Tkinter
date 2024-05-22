@@ -1,2 +1,2 @@
-# Python_Gui_Exemplos
-Repositorio com pequenos projetos de interface grafica comentados.
+# Python Tkinter
+Repositorio com pequenos projetos de interface grafica.
